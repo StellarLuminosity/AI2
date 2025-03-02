@@ -5,6 +5,8 @@ This project was developed for the **AI² Tournament**, where the goal was to tr
 
 🚀 **Our agent was awarded the AI² Crown**, recognizing it as one of the top 3 reinforcement learning agents in the competition.
 
+![Agents Fighting](videos/agents_fighting.png)
+
 ## How Our Agent Works
 Our approach combined **deep reinforcement learning** with strategic **hard-coded behavior** to ensure robustness in various combat scenarios. 
 
