@@ -3,7 +3,7 @@
 ## Challenge Overview
 This project was developed for the **AI² Tournament**, where the goal was to train reinforcement learning (RL) agents to compete in a **1v1 fighting game** similar to Brawhalla. The agents learned to optimize their strategies through self-play and carefully designed reward functions.
 
-🚀 **Our agent was awarded the AI² Crown**, recognizing it as one of the top 3 reinforcement learning agents in the competition.
+🚀 **Our agent was awarded the AI² Crown**
 
 ![Agents Fighting](videos/agents_fighting.png)
 
